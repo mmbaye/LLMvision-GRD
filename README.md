@@ -4,15 +4,15 @@
 
 A benchmark of four vision-language models (VLMs) for **Groundnut Rosette Disease (GRD)** severity scoring, compared against a YOLO segmentation reference on 107 field-trial images (Uganda).
 
-**Institution:** ISRA — Institut Sénégalais de Recherches Agricoles (Breeding Informatics)
-**Collaboration:** I. Chapu (Makerere University, Uganda)
-**Target journal:** *Frontiers in Artificial Intelligence* — AI in Food, Agriculture and Water
+**Institution:** ISRA : Institut Sénégalais de Recherches Agricoles (Breeding Informatics)
+**Collaboration:** I. Chapu (Makerere University,Kampala,  Uganda)
+**Target journal:** *Frontiers in Artificial Intelligence*  AI in Food, Agriculture and Water
 
 ---
 
 ## Key finding
 
-**YOLO-augmented prompting (P03)** lifts 3 of 4 VLMs from no agreement (κw ≈ 0) to **almost-perfect** agreement (κw > 0.86) with the expert-calibrated reference. Claude is the exception: it stays negative across all conditions and never assigns the GRD5 class, even though GRD5 dominates the reference (70.1%) — a "resistance to YOLO evidence" / GRD5-avoidance behaviour.
+**YOLO-augmented prompting (P03)** lifts 3 of 4 VLMs from no agreement (κw ≈ 0) to **almost-perfect** agreement (κw > 0.86) with the expert-calibrated reference. Claude is the exception: it stays negative across all conditions and never assigns the GRD5 class, even though GRD5 dominates the reference (70.1%)   a "resistance to YOLO evidence" / GRD5-avoidance behaviour.
 
 | Model     | κw P02  | κw P03  | P03 interpretation |
 |-----------|:-------:|:-------:|--------------------|
