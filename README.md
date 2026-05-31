@@ -1,4 +1,4 @@
-# GRD Severity Scoring — VLM Benchmark
+# GRD Severity Scoring VLM Benchmark
 
 > **YOLO-Augmented Prompting Bridges the Gap Between General-Purpose Vision-Language Models and Expert GRD Severity Scoring: A Benchmark Study in West African Groundnut Breeding Trials**
 
