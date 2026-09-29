@@ -27,7 +27,7 @@ A benchmark of four vision-language models (VLMs) for **Groundnut Rosette Diseas
 
 ## Workflow
 
-![workflow](https://github.com/mmbaye/LLMvision-GRD/blob/main/workflow/workflow.jpeg) 
+![workflow](https://github.com/mmbaye/LLMvision-GRD/blob/main/workflow/workflow.png) 
 
 ---
 
