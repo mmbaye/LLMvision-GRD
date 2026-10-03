@@ -1,0 +1,151 @@
+filename,crop,scoring_type,vigor_score,canopy_cover_pct,disease_score,disease_type,grd_score,pct_plants_affected,water_stress_score,irrigation_recommendation,maturity_pct,days_to_harvest,stand_score,stand_pct,selection_index,recommendation,confidence,key_observation
+"GN_NK_UG_21B_2.JPG","peanut","","","","","","GRD1|GRD2|GRD3|GRD4|GRD5","0","","","","","","","","","High",""
+"GN_NK_UG_21B_3.JPG","peanut","","","","","","","","","","","","","","","Review","Low","{
+""vigor_score"": null,
+""canopy_cover_pct"": null,
+""disease_score"": null,
+""disease_type"": null,
+""grd_score"": ""GRD5"",
+""grd_class_distribution"": {""GRD1"":0,""GRD2"":0,""GRD3"":3.9%,""GRD4"":0.0%,""GRD5"":0.0%},
+""p"
+"GN_NK_UG_21B_4.JPG","peanut","","","","","","GRD5","","","","","","","","","","High","Grd score of the plants is GRD5."
+"GN_NK_UG_21B_5.JPG","peanut","","","","","","GRD5","","","","","","","","","","",""
+"GN_NK_UG_21B_6.JPG","peanut","","","","","","","","","","","","","","","Review","Low","{
+""disease_score"": 0,
+""grd_score"": ""GRD3"",
+""grd_class_distribution"": {""GRD3"": 15.5},
+""pct_plants_affected"": 15.5,
+""stand_score"": null,
+""stand_pct"": null,
+""maturity_pct"": null,
+""days_to_harvest"": null,"
+"GN_NK_UG_21B_7.JPG","peanut","","","","","","GRD3","","","Monitor","","","","","","Monitor","High","The image shows a plot of peanut plants that are affected by Groundnut Rosette Disease (GRD). The disease severity is moderate."
+"GN_NK_UG_21B_8.JPG","peanut","","0","0","0","","GRD3","33.2","1","Soon","0","","0","0","1","On hold","Medium","The plot shows rosette disease in some plants."
+"GN_NK_UG_21B_9.JPG","peanut","","","","","","GRD5","","","","","","","","","","",""
+"GN_NK_UG_21B_19.JPG","peanut","","","","","","GRD1","0","","Not needed","","","","","1","Advance","High","No symptoms. Healthy plants."
+"GN_NK_UG_21B_20.JPG","peanut","","","","2.5","GRD2","GRD2","5","2","Soon","","","","","","","High",""
+"GN_NK_UG_21B_21.JPG","peanut","","","","","Groundnut Rosette Disease","GRD3","","","Monitor","","","","","","On hold","Low","The image shows plants that are infected with GRD3."
+"GN_NK_UG_21B_22.JPG","peanut","","","","81.4","","GRD5","81.4","","","","","","","","","High","The image shows no GRD symptoms and is healthy."
+"GN_NK_UG_21B_23.JPG","peanut","","","","","","GRD2","","","","","","","","1","Eliminate","High","The image shows GRD2 on the plants."
+"GN_NK_UG_21B_24.JPG","peanut","","","","","","GRD2","","","","","","","","","","",""
+"GN_NK_UG_21B_25.JPG","peanut","","","","4.45","","GRD5","","","","","","","","","","High","Plants with slight chlorosis, some stunting, and a few plants. Plants are mostly healthy. No plants are dead or completely stunted. Disease score: 4.45."
+"GN_NK_UG_21B_26.JPG","peanut","","","","6","Groundnut Rosette Disease","GRD5","","","","","","","","","","High","The image shows a peanut plot with healthy plants and a GRD score of 6."
+"GN_NK_UG_21B_27.JPG","peanut","","","","","","GRD5","","","","","","","","","","",""
+"GN_NK_UG_21B_28.JPG","peanut","","","","68.3","","GRD5","68.3","","On hold","","","","","","On hold","",""
+"GN_NK_UG_21B_29.JPG","peanut","","","","","","","","","","","","","","","Review","Low","{
+""grd_score"": ""GRD5"",
+""grd_class_distribution"": {""GRD5"":100},
+""pct_plants_affected"": 100,
+""irrigation_recommendation"": ""On hold"",
+""stand_score"": 3,
+""stand_pct"": 100,
+""maturity_pct"": 0,
+""days_to_harve"
+"GN_NK_UG_21B_30.JPG","peanut","","","","","","GRD4","","","","","","","","","","",""
+"GN_NK_UG_21B_31.JPG","peanut","","0","0","5","","GRD5","0","0","On hold","0","0","0","0","0","On hold","Low","Plants have some rosette disease but not severe enough to be classified as GRD5."
+"GN_NK_UG_21B_32.JPG","peanut","","","","","","GRD3","","","","","","","","","","Low","Several plants with clear chlorosis and moderate stunting are visible. Some plants appear to have a moderate amount of stunting. The rest of the plants are healthy."
+"GN_NK_UG_21B_33.JPG","peanut","","","","","","","","","","","","","","","Review","Low","{
+""grd_score"": ""GRD5"",
+""grd_class_distribution"": {""GRD5"":74.6%},
+""pct_plants_affected"": 74.6%
+}"
+"GN_NK_UG_21B_34.JPG","peanut","","","","","","GRD4","","","","","","","","","","",""
+"GN_NK_UG_21B_35.JPG","peanut","","","","","","GRD3","11.2","","","","","","","","","",""
+"GN_NK_UG_21B_36.JPG","peanut","","","","","","GRD5","70.6","","Monitor","","","","","","On hold","High","The plants have rosette disease."
+"GN_NK_UG_21B_37.JPG","peanut","","","","","","GRD5","50","","","","","5","100","","","",""
+"GN_NK_UG_21B_38.JPG","peanut","","","","","","","","","","","","","","","Review","Low","{
+""grd_score"": ""GRD5"",
+""grd_class_distribution"": {""GRD5"": 58.3%},
+""pct_plants_affected"": 58.3%
+}"
+"GN_NK_UG_21B_39.JPG","peanut","","","","","Groundnut Rosette Disease (GRD)","GRD5","0","","Monitor","","","","","1","On hold","Low","The image shows GRD5 disease in the peanut plants."
+"GN_NK_UG_21B_40.JPG","peanut","","","","5","","GRD5","100","","","","","","","","","",""
+"GN_NK_UG_21B_41.JPG","peanut","","","","","","GRD3","28.9","","Monitor","","","","","","On hold","High","Some plants with slight chlorosis and weak mosaic on this peanut field plot."
+"GN_NK_UG_21B_42.JPG","peanut","","","","","","GRD5","100","","Monitor","","","","","","Monitor","Low","The plot shows severe rosette disease (GRD5)."
+"GN_NK_UG_21B_43.JPG","peanut","","","","","","GRD2","54.5","","Monitor","","","","","","Monitor","High","Disease severity is very slight. No plants show signs of disease."
+"GN_NK_UG_21B_44.JPG","peanut","","","","","","GRD5","62","","Soon","","","","","","Soon","High","GRD5 is the dominant class with a score of 62.0."
+"GN_NK_UG_21B_45.JPG","peanut","","1","0.2","0","","GRD2","38.5","0","Monitor","0","","8","0","1","Monitor","High","Plants with very mild symptoms of GRD."
+"GN_NK_UG_21B_46.JPG","peanut","","","","0-5","groundnut rosette disease","GRD5","100","","Monitor","","","","","","Observe","High","Groundnut rosette disease is present in the plants but not severely."
+"GN_NK_UG_21B_47.JPG","peanut","","","","","","GRD1","","","","","","","","","","",""
+"GN_NK_UG_21B_48.JPG","peanut","","","","","","GRD4","98","","","","","","","","","High","Several plants are affected with clear chlorosis and leaf deformation."
+"GN_NK_UG_21B_49.JPG","peanut","","","","5","GRD5","GRD5","48.1","","Soon","","","","","5","Advance","High","A large patch of the plants are affected by GRD5. The plants are stunted and the leaves are curled. This is the most severe case of GRD5 seen in this field trial. The plants are nearly dead and appear to be on the verge of death."
+"GN_NK_UG_21B_50.JPG","peanut","","","","","","GRD3","","","","","","","","","","",""
+"GN_NK_UG_21B_51.JPG","peanut","","","","","","GRD3","","","","","","","","9","","",""
+"GN_NK_UG_21B_52.JPG","peanut","","","","","","GRD4","","","","","","","","","","",""
+"GN_NK_UG_21B_53.JPG","peanut","","","","","","GRD2","0","","","","","","","","","",""
+"GN_NK_UG_21B_54.JPG","peanut","","","","","","GRD5","","","","","","","","","","",""
+"GN_NK_UG_21B_55.JPG","peanut","","","","0","","GRD4","0","","Soon","","","","","","Observe","Low","A peanut field trial with no disease symptoms."
+"GN_NK_UG_21B_56.JPG","peanut","","","","","","GRD3","43.8","","","0","","5","0","","","High","The plants have rosette disease symptoms. Some plants are dead."
+"GN_NK_UG_21B_57.JPG","peanut","","","","","","GRD4","","","","","","1","33.3","1","Advance","High","The plot is moderately affected by GRD. The GRD score is 4.38."
+"GN_NK_UG_21B_58.JPG","peanut","","","","","","GRD2","34.5","","","","","","","","","",""
+"GN_NK_UG_21B_59.JPG","peanut","","","","","","GRD3","","","","","","","","","","High","A field with green plants with some showing signs of rosette disease. The majority of the plants show no symptoms."
+"GN_NK_UG_21B_60.JPG","peanut","","","","","","GRD5","1","1","Soon","0","","","","","","High","The image shows GRD5 plants"
+"GN_NK_UG_21B_61.JPG","peanut","","","","","","GRD3","2.3","","","","","","","","","",""
+"GN_NK_UG_21B_62.JPG","peanut","","","","","","GRD5","","","","","","","","5","Advance","High","The plot shows GRD5, which is the most severe class of the disease."
+"GN_NK_UG_21B_63.JPG","peanut","","8","0","0","Groundnut Rosette Disease","GRD1","0","0","Not needed","0","","9","100","9","Advance","High","Green plants without any symptoms. Healthy plants."
+"GN_NK_UG_21B_64.JPG","peanut","","","","","","GRD1","0","","","","","","","","","",""
+"GN_NK_UG_21B_65.JPG","peanut","","","","","GRD5","GRD5","0","","On hold","","","","","1","On hold","Medium","Some plants appear to have mild to moderate GRD symptoms."
+"GN_NK_UG_21B_66.JPG","peanut","","","","","","GRD5","90.4","","","","","7","75","","","High",""
+"GN_NK_UG_21B_67.JPG","peanut","","","","52.9","","GRD2","52.9","","Monitor","52.9","","5.5","52.9","","","High","Some plants in the field are affected by GRD2"
+"GN_NK_UG_21B_68.JPG","peanut","","","","0","","GRD1","0","","","","","","0","","","",""
+"GN_NK_UG_21B_69.JPG","peanut","","","","0","","GRD4","0","","","0","","0","0","","","Low",""
+"GN_NK_UG_21B_70.JPG","peanut","","","","","","GRD5","","","","","","","","","","Low","The plants show signs of rosette disease."
+"GN_NK_UG_21B_71.JPG","peanut","","","","","","GRD5","","","","","","","","","","",""
+"GN_NK_UG_21B_72.JPG","peanut","","","","3.5","","GRD2","15.2","","","","","2.34","","","","",""
+"GN_NK_UG_21B_73.JPG","peanut","","","","","","GRD5","","","","","","","","","","Low","The plants have some mild rosette disease"
+"GN_NK_UG_21B_74.JPG","peanut","","","","","","GRD2","30","","","","","","","","","",""
+"GN_NK_UG_21B_75.JPG","peanut","","","","0","GRD1","GRD1","0","","Not needed","0","","9","0","1","Not needed","High","Healthy plants."
+"GN_NK_UG_21B_76.JPG","peanut","","","","","","","0","","","","","","","","","",""
+"GN_NK_UG_21B_77.JPG","peanut","","","","","","GRD5","57","","","","","","57","","","",""
+"GN_NK_UG_21B_78.JPG","peanut","","","","","","GRD2","9.9","","","","","3","3","","","",""
+"GN_NK_UG_21B_79.JPG","peanut","","","","0","GRD2","GRD2","27.5","","","","","","","","","",""
+"GN_NK_UG_21B_80.JPG","peanut","","","","","","GRD5","0","","","","","","","","","",""
+"GN_NK_UG_21B_81.JPG","peanut","","","","","","GRD5","","","","","","","","","","High","The GRD score for this plot is 80.2%"
+"GN_NK_UG_21B_82.JPG","peanut","","","","100","","GRD5","","","","","","","","","","High","The plot is covered with GRD5 plants that are in full display."
+"GN_NK_UG_21B_83.JPG","peanut","","","","","","GRD5","","","","","","","","","","",""
+"GN_NK_UG_21B_84.JPG","peanut","","","","","","GRD2","0","","Soon","","","","","1","Advance","High","Very few plants showing mild disease symptoms. Healthy plants."
+"GN_NK_UG_21B_85.JPG","peanut","","","","5","GRD5","GRD5","100","","Not needed","","","","","","Not needed","High","GRD5"
+"GN_NK_UG_21B_86.JPG","peanut","","","","","","GRD1","0","","","","","","","","","High","The image shows GRD1."
+"GN_NK_UG_21B_87.JPG","peanut","","","","","","GRD5","8.3","","Monitor","0","","","","","On hold","High","The image shows GRD5. I confirm this."
+"GN_NK_UG_21B_88.JPG","peanut","","","","","","GRD4","23.8","","Soon","","","","","","","High","GRD4 plants showing"
+"GN_NK_UG_21B_89.JPG","peanut","","","","","","GRD3","8","1","Soon","0","0","9","100","1","Advance","High","Grd3 plants are growing in the field. Some plants have rosette disease."
+"GN_NK_UG_21B_90.JPG","peanut","","","","","","GRD5","0.07","","","","","","","1","Advance","High","The plants show some GRD symptoms in the field."
+"GN_NK_UG_21B_91.JPG","peanut","","","","","","GRD3","3.03","","","","","","","","","Low","Grd 3 on the plants with slight chlorosis, weak mosaic, few plants."
+"GN_NK_UG_21B_92.JPG","peanut","","","","","","GRD3","","","","","","","","","","High","The GRD score is GRD3 with 15.0% of the plants affected."
+"GN_NK_UG_21B_93.JPG","peanut","","","","","","GRD3","","","","","","","","","On hold","High","Green plants in a field with no symptoms of the disease."
+"GN_NK_UG_21B_94.JPG","peanut","","","","","","GRD5","100","","","100","","1","","","","High","The plot shown has a very severe rosette disease expression."
+"GN_NK_UG_21B_95.JPG","peanut","","","","2.5","","GRD3","2.2","1","Not needed","0","","2.5","2.5","5","Observe","Medium","A few plants show mild disease symptoms."
+"GN_NK_UG_21B_96.JPG","peanut","","","","","","GRD5","100","","","","","","","","","",""
+"GN_NK_UG_21B_97.JPG","peanut","","","","2.95","","GRD2","0","","","","","","","","","",""
+"GN_NK_UG_21B_98.JPG","peanut","","","","","","GRD2","2.83","","On hold","","","","","","On hold","High","A plot of peanut plants with very mild signs of Groundnut Rosette Disease"
+"GN_NK_UG_21B_99.JPG","peanut","","","","","","GRD5","","","","","","","","","","",""
+"GN_NK_UG_21B_184.JPG","peanut","","","","","","GRD1","0","","","","","","","1","Advance","Low","The plot has no symptoms of GRD."
+"GN_NK_UG_21B_185.JPG","peanut","","","","","","GRD1","0","","","","","","","","","",""
+"GN_NK_UG_21B_186.JPG","peanut","","","","","","","","","","","","","","","Review","Low","{
+""vigor_score"": null,
+""canopy_cover_pct"": null,
+""disease_score"": null,
+""disease_type"": null,
+""grd_score"": ""GRD3"",
+""grd_class_distribution"": {""GRD1"":0.0%,""GRD2"":31.4%,""GRD3"":1.5%,""GRD4"":0.0%,""GRD5"":67"
+"GN_NK_UG_21B_187.JPG","peanut","","","","","","GRD5","54.7","","","","","1","0","","","",""
+"GN_NK_UG_21B_188.JPG","peanut","","","","0","","GRD1","0","1","Not needed","0","","1","0","1","On hold","High","The plants are green and healthy."
+"GN_NK_UG_21B_189.JPG","","","","","","","","","","","","","","","","","",""
+"GN_NK_UG_21B_190.JPG","peanut","","","","","","GRD2","23.8","","","","","","","","","","Many plants with clear chlorosis and leaf deformation."
+"GN_NK_UG_21B_191.JPG","peanut","","","","5","","GRD5","","","","","","","","","","",""
+"GN_NK_UG_21B_192.JPG","peanut","","","","","","GRD5","100","","Soon","","","","","","Advance","High","Very severe rosette, collapse, extreme stunting, plant death."
+"GN_NK_UG_21B_193.JPG","peanut","","","","","","GRD4","46.5","","","","","","","","","",""
+"GN_NK_UG_21B_194.JPG","peanut","","","","","","GRD5","46.2","","","","","","","","","",""
+"GN_NK_UG_21B_195.JPG","peanut","","","","50","","GRD5","50","","","0","","1","0","","","Low",""
+"GN_NK_UG_21B_196.JPG","peanut","","","","","","GRD3","","","","","","","","","","",""
+"GN_NK_UG_21B_197.JPG","peanut","","","","0","","GRD1","0","","Not needed","","","","","","Not needed","","Healthy plants."
+"GN_NK_UG_21B_198.JPG","peanut","","","","","","","","","","","","","","","Review","Low","{
+""vigor\_score"": null,
+""canopy\_cover\_pct"": null,
+""disease\_score"": null,
+""disease\_type"": null,
+""grd\_score"": ""GRD3|GRD4|GRD5"",
+""grd\_class\_distribution"": {""GRD1"":0.0,""GRD2"":4.3,""GRD3"":20.7,""GRD4"""
+"GN_NK_UG_21B_199.JPG","peanut","","","","5","","GRD5","100","","","","","","","","","",""
+"GN_NK_UG_21B_200.JPG","peanut","","","","","","GRD5","0.26","","Not needed","","","0","0","","On hold","Low","The plot shows GRD5 in 69.8% of the plants."
+"GN_NK_UG_21B_201.JPG","peanut","","","","","","GRD4","15.7","","","","","","","0","","Low","some plants are affected by disease"

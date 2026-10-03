@@ -1,11 +1,11 @@
 # GRD Severity Scoring VLM Benchmark
 
-> **YOLO-Augmented Prompting Bridges the Gap Between General-Purpose Vision-Language Models and Expert GRD Severity Scoring: A Benchmark Study in West African Groundnut Breeding Trials**
+> ** Vision Language Models Enable Calibrated Groundnut Rosette Disease Severity Scoring Through Computer-Vision-Augmented Prompting: A Benchmark Study in West African Groundnut Breeding Trials**
 
 A benchmark of four vision-language models (VLMs) for **Groundnut Rosette Disease (GRD)** severity scoring, compared against a YOLO segmentation reference on 107 field-trial images (Uganda).
 
-**Institution:** ISRA : Institut Sénégalais de Recherches Agricoles (Breeding Informatics)
-**Collaboration:** I. Chapu (Makerere University,Kampala,  Uganda)
+**Institution:** ISRA :  Institut Sénégalais de Recherches Agricoles (Breeding Informatics)
+**Collaboration:** Makerere University,Kampala,  Uganda
 **Target journal:** *Frontiers in Artificial Intelligence*  AI in Food, Agriculture and Water
 
 ---

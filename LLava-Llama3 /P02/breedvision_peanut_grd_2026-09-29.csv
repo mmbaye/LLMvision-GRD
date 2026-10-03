@@ -1,0 +1,133 @@
+filename,crop,scoring_type,vigor_score,canopy_cover_pct,disease_score,disease_type,grd_score,pct_plants_affected,water_stress_score,irrigation_recommendation,maturity_pct,days_to_harvest,stand_score,stand_pct,selection_index,recommendation,confidence,key_observation
+"GN_NK_UG_21B_2.JPG","","","","","","","","","","","","","","","","","",""
+"GN_NK_UG_21B_3.JPG","peanut","","","","","","GRD3","","","Monitor","","","","","","Monitor","Low","The plants in the photo are affected by GRD3. They have a moderate level of stunting and a few plants are affected by it."
+"GN_NK_UG_21B_4.JPG","peanut","","","","2","","GRD3","50","1","","50","","9","100","","","High","Grass in the field is turning brown."
+"GN_NK_UG_21B_5.JPG","peanut","","","","","","GRD2","30","","","0","","0","0","0","On hold","Medium","A peanut field with mild rosette disease."
+"GN_NK_UG_21B_6.JPG","peanut","","","","","","GRD5","65","","","","","","","","","",""
+"GN_NK_UG_21B_7.JPG","peanut","","","","","","GRD2","25","0","","0","","0","0","1","On hold","High","The field is experiencing rosette disease."
+"GN_NK_UG_21B_8.JPG","peanut","","","","","","GRD1","100","","Not needed","","","","","","Observe","High","Healthy plants."
+"GN_NK_UG_21B_9.JPG","peanut","","","","","","GRD5","10","","Soon","","","","","","","Low","Field of plants with GRD5."
+"GN_NK_UG_21B_19.JPG","peanut","","","","2","","GRD2","20","","","","","","","","","",""
+"GN_NK_UG_21B_20.JPG","peanut","","","","","","GRD3","100","1","Monitor","0","","9","100","9","Advance","High","Clear chlorosis, moderate stunting, several plants."
+"GN_NK_UG_21B_21.JPG","peanut","","","","","","GRD3","","","","","","","","","","",""
+"GN_NK_UG_21B_22.JPG","peanut","","1","","","","GRD2","50","1","Soon","0","0","1","100","","","Low",""
+"GN_NK_UG_21B_23.JPG","peanut","","","","5","","GRD5","100","","","","","9","100","","","",""
+"GN_NK_UG_21B_24.JPG","peanut","","","","","","GRD3","40","2","","","","4","0","","","",""
+"GN_NK_UG_21B_25.JPG","peanut","","","","","","GRD3","","","","","","","","","","",""
+"GN_NK_UG_21B_26.JPG","peanut","","","","2","","GRD4","10","","","","","9","90","","","",""
+"GN_NK_UG_21B_27.JPG","peanut","","","","","","GRD2","20","","Monitor","","","","","","","Low","Groundnut Rosette Disease (GRD) symptoms are present in the image."
+"GN_NK_UG_21B_28.JPG","peanut","","","","","","GRD2","20","","","","","5","20","","","",""
+"GN_NK_UG_21B_29.JPG","peanut","","7","","3","Leaf Spot","GRD3","100","","","","","6","80","","","",""
+"GN_NK_UG_21B_30.JPG","peanut","","","","","","GRD3","0","","","","","","","","","",""
+"GN_NK_UG_21B_31.JPG","peanut","","","","1","","GRD2","70","","","0","","1","30","","","Medium","The plot is small and is growing healthy plants."
+"GN_NK_UG_21B_32.JPG","peanut","","","","2","","GRD2","10","","","","","","","","","",""
+"GN_NK_UG_21B_33.JPG","peanut","","","","","","GRD3","0","","","","","","","","Monitor","Medium","Stand is not affected by GRD."
+"GN_NK_UG_21B_34.JPG","peanut","","","","","","GRD4","20","","","","","","","","","High","A field with plants exhibiting GRD4 symptoms."
+"GN_NK_UG_21B_35.JPG","peanut","","","","","","GRD3","1","1","Monitor","0","","1","0","1","On hold","High","The plants show some stunting, which may indicate GRD."
+"GN_NK_UG_21B_36.JPG","peanut","","","","","","GRD2","0","0","Not needed","0","0","0","0","0","On hold","Low","Mild rosette disease in plants."
+"GN_NK_UG_21B_37.JPG","peanut","","","","4","GRD","GRD4","10","","","0","","2","0","1","Monitor","Medium","The peanut plants are affected by the GRD disease."
+"GN_NK_UG_21B_38.JPG","peanut","","9","100","1","Groundnut Rosette Disease (GRD)","GRD2","100","1","Soon","100","","9","100","1","Advance","High","The plot has many plants that appear to be affected by GRD2."
+"GN_NK_UG_21B_39.JPG","peanut","","","","4","","GRD4","80","2","Monitor","0","","0","0","0","Monitor","Low","The plants are dying."
+"GN_NK_UG_21B_40.JPG","peanut","","","","2","","GRD2","100","1","","0","0","5","0","5","Monitor","High","Some of the plants are affected by a disease."
+"GN_NK_UG_21B_41.JPG","peanut","","","","40","","GRD4","80","","","","","","","","","",""
+"GN_NK_UG_21B_42.JPG","peanut","","","","2","","GRD3","50","","Soon","0","","1","50","1","Advance","Medium","Some plants showing a bit of chlorosis but generally healthy."
+"GN_NK_UG_21B_43.JPG","peanut","","","","","","GRD3","0","","","0","0","0","0","","","",""
+"GN_NK_UG_21B_44.JPG","peanut","","","","","","GRD3","0","","","","","","","","","",""
+"GN_NK_UG_21B_45.JPG","peanut","","","","","","GRD1","0","","","","","","","","","High","The plants look healthy and no symptoms of GRD are visible."
+"GN_NK_UG_21B_46.JPG","peanut","","","","2","","GRD2","0","","","0","","1","0","0","On hold","High","The plants are healthy and have no signs of Groundnut Rosette Disease."
+"GN_NK_UG_21B_47.JPG","peanut","","","","","","GRD2","40","","","","","","","","","",""
+"GN_NK_UG_21B_48.JPG","peanut","","","","0","","GRD1","0","","","","","","","","","High","Healthy plants with no visible symptoms of GRD."
+"GN_NK_UG_21B_49.JPG","peanut","","","","","","GRD3","","","","","","","","","","",""
+"GN_NK_UG_21B_50.JPG","peanut","","","","1","","GRD2","50","","Monitor","","","","","","Monitor","Low","This plot exhibits mild symptoms of GRD."
+"GN_NK_UG_21B_51.JPG","peanut","","","","","","GRD2","0","2","Soon","0","","7","0","4","Observe","Low","Mild chlorosis on a few plants with no stunting."
+"GN_NK_UG_21B_52.JPG","peanut","","","","","","GRD1","","","","","","","","","","",""
+"GN_NK_UG_21B_53.JPG","peanut","","","","","","GRD3","","","","","","","","","","",""
+"GN_NK_UG_21B_54.JPG","peanut","","","","","","GRD3","0.8","","","","","","","","","",""
+"GN_NK_UG_21B_55.JPG","peanut","","9","","5","","GRD3","100","","","0","","7","","","","",""
+"GN_NK_UG_21B_56.JPG","peanut","","","","2","","GRD2","2","0","Not needed","0","0","1","100","1","Monitor","High","Some plants show mild chlorosis and stunting."
+"GN_NK_UG_21B_57.JPG","peanut","","","","","","GRD3","","","","","","","","","","",""
+"GN_NK_UG_21B_58.JPG","peanut","","","","","","GRD5","0.5","","","","","1","0.1","1","On hold","High","Very severe symptoms of GRD5 are observed in this plot."
+"GN_NK_UG_21B_59.JPG","peanut","","","","5","","GRD3","20","5","","0","","1","100","10","On hold","",""
+"GN_NK_UG_21B_60.JPG","peanut","","","","1","","GRD2","0","","","","","","","","","",""
+"GN_NK_UG_21B_61.JPG","peanut","","","","","","GRD3","10","","Monitor","","","4","25","","","",""
+"GN_NK_UG_21B_62.JPG","peanut","","","","1","","GRD1","","","","","","","","","","High","Healthy plants with no signs of disease."
+"GN_NK_UG_21B_63.JPG","peanut","","6","0","0","","GRD3","0","1","Monitor","0","","6","0","6","On hold","High","Mild chlorosis and stunting in the plants."
+"GN_NK_UG_21B_64.JPG","peanut","","","","0","","GRD1","0","0","Not needed","0","0","0","0","0","On hold","High","No symptoms of GRD visible in the image."
+"GN_NK_UG_21B_65.JPG","peanut","","","","","","","100","","","","","","","","","",""
+"GN_NK_UG_21B_66.JPG","peanut","","","","","","GRD3","","","","","","","","","","",""
+"GN_NK_UG_21B_67.JPG","peanut","","","","","","","","","","","","","","","Review","Low","{
+""grd_score"": ""GRD1"",
+""grd_class_distribution"": {""GRD1"":100},
+""pct_plants_affected"": 100,
+""stand_score"": 9,
+""stand_pct"": 100,
+""maturity_pct"": 0,
+""stand_pct"": 0,
+""days_to_harvest"": 0,
+""irrigation_reco"
+"GN_NK_UG_21B_68.JPG","peanut","","","","","","GRD2","80","","Monitor","0","","","","","On hold","High","Some plants with signs of mild chlorosis and stunting. High confidence."
+"GN_NK_UG_21B_69.JPG","peanut","","","","","","","","","","","","","","","Review","Low","{
+""grd_score"": ""GRD3"",
+""grd_class_distribution"": {
+""GRD1"": 1,
+""GRD2"": 6,
+""GRD3"": 5,
+""GRD4"": 0,
+""GRD5"": 0
+},
+""disease_score"": 3,
+""grd_type"": ""Groundnut Rosette Disease"",
+""vigor_score"": 1,
+""stand_score"""
+"GN_NK_UG_21B_70.JPG","peanut","","7","","0","GRD","GRD4","25","0","","0","","6","80","","","High","The image shows a field of plants with GRD symptoms. The groundnut rosette disease (GRD) is present in 25% of the plants and the GRD score is GRD4. The plants appear to be in good health and vigor."
+"GN_NK_UG_21B_71.JPG","peanut","","","","","","GRD2","100","","","","","1","100","","","",""
+"GN_NK_UG_21B_72.JPG","peanut","","","","","","GRD4","100","","Not needed","0","","","0","","","Low",""
+"GN_NK_UG_21B_73.JPG","peanut","","","","","","GRD4","0","","","0","","","0","1","On hold","Low",""
+"GN_NK_UG_21B_74.JPG","peanut","","4","","2","","GRD4","0","2","Monitor","0","","2","0","2","On hold","Low","The plants are affected by GRD4."
+"GN_NK_UG_21B_75.JPG","peanut","","","","0","","GRD1","","","","","","","","","","",""
+"GN_NK_UG_21B_76.JPG","peanut","","","","","","GRD2","1","","","","","","","","","",""
+"GN_NK_UG_21B_77.JPG","peanut","","","","","","GRD1","0","","Not needed","","","","","","On hold","High","No visible symptoms in the image."
+"GN_NK_UG_21B_78.JPG","peanut","","","","4","","GRD4","50","3","Monitor","100","","1","0","9","Advance","High","Severe chlorosis, stunting, and plant death on the plants."
+"GN_NK_UG_21B_79.JPG","peanut","","","","4","","GRD4","100","","","0","0","","","","On hold","High","Some plants are showing signs of GRD."
+"GN_NK_UG_21B_80.JPG","peanut","","1","","4","Groundnut Rosette Disease (GRD)","GRD3","10","1","Not needed","10","","1","10","1","Monitor","High","Groundnut Rosette Disease symptoms are visible on the plants in the image."
+"GN_NK_UG_21B_81.JPG","peanut","","","","","","GRD4","100","","","","","","","","","",""
+"GN_NK_UG_21B_82.JPG","peanut","","","","2","","GRD2","100","1","Soon","0","","1","0","1","Advance","Low","The plants in the image have a rosette disease."
+"GN_NK_UG_21B_83.JPG","peanut","","","","0","Groundnut Rosette Disease","GRD3","20","","","","","8","80","","","",""
+"GN_NK_UG_21B_84.JPG","peanut","","","","","","GRD4","0","","","0","","","0","0","","",""
+"GN_NK_UG_21B_85.JPG","peanut","","","","","","","","","","","","","","","Review","Low","{
+""grd_score"": ""GRD4"",
+""grd_class_distribution"": {""GRD1"":0,""GRD2"":0,""GRD3"":0,""GRD4"":100,""GRD5"":0},
+""grd_class_distribution_"": {""GRD1"":0,""GRD2"":0,""GRD3"":0,""GRD4"":100,""GRD5"":0},
+""grd_class_distribution_"
+"GN_NK_UG_21B_86.JPG","peanut","","","","4","","GRD3","100","0","Not needed","0","","0","0","0","On hold","High","Healthy plants with no visible symptoms of GRD."
+"GN_NK_UG_21B_87.JPG","peanut","","","","","","","","","","","","","","","","",""
+"GN_NK_UG_21B_88.JPG","peanut","","","","","","GRD4","0","","Soon","","","6","0","2","Advance","High","The plants are stunted and yellowing."
+"GN_NK_UG_21B_89.JPG","peanut","","3","","","","GRD3","100","3","Monitor","0","","8","100","2","Observe","Medium","The plants have mild chlorosis and are stunted, but not dead."
+"GN_NK_UG_21B_90.JPG","peanut","","","","","","GRD4","60","","","100","","","0","1","Advance","High","The plants are affected by GRD4."
+"GN_NK_UG_21B_91.JPG","peanut","","","","2","Leaf Spots","GRD3","10","1","","0","","1","100","","","Medium","The plot is starting to show symptoms of GRD."
+"GN_NK_UG_21B_92.JPG","peanut","","","","","","GRD2","5","","","","","","","","","",""
+"GN_NK_UG_21B_93.JPG","peanut","","","","","","GRD2","50","","","0","","1","0","","","",""
+"GN_NK_UG_21B_94.JPG","peanut","","","","","","GRD5","100","","","","","","","","","",""
+"GN_NK_UG_21B_95.JPG","peanut","","","","2","","GRD3","50","","","0","","5","0","1","On hold","Low","The groundnut plants are not showing any signs of infection by GRD."
+"GN_NK_UG_21B_96.JPG","peanut","","","","","","GRD3","80","","","","","","","","","",""
+"GN_NK_UG_21B_97.JPG","peanut","","","","","","GRD5","100","","","100","","","","","","High",""
+"GN_NK_UG_21B_98.JPG","peanut","","","","0","","GRD3","100","","","","","","","","","High","Plants with green leaves growing out of the soil with no visible signs of disease."
+"GN_NK_UG_21B_99.JPG","peanut","","","","","","GRD2","100","","Monitor","","","","","","Monitor","High","Plants with green leaves and brown soil. Some are starting to wilt."
+"GN_NK_UG_21B_184.JPG","peanut","","","","1","","GRD1","100","","Not needed","0","","1","100","","","High",""
+"GN_NK_UG_21B_185.JPG","peanut","","1","","","","GRD2","","0","Not needed","0","0","0","0","","","High","Groundnut Rosette Disease (GRD) severity on this plot is slight chlorosis, weak mosaic, and few plants."
+"GN_NK_UG_21B_186.JPG","peanut","","","","","","GRD2","100","","","","","","","","","Low","The image shows a peanut field with several plants showing mild chlorosis and weak mosaic."
+"GN_NK_UG_21B_187.JPG","peanut","","3","80","1","","GRD2","25","1","Soon","50","","7","60","1","Advance","High","The plants are showing early signs of GRD."
+"GN_NK_UG_21B_188.JPG","peanut","","","","","","GRD3","","","","","","","","","","",""
+"GN_NK_UG_21B_189.JPG","peanut","","6","100","0","","GRD3","100","0","Not needed","0","","6","100","7","Advance","High","A peanut field with healthy green plants and no symptoms of GRD."
+"GN_NK_UG_21B_190.JPG","peanut","","","","3","","GRD3","70","","Monitor","","","","","3","Monitor","Medium","The plants have been affected by GRD, but not severely."
+"GN_NK_UG_21B_191.JPG","peanut","","","","","","GRD1","100","","Not needed","0","","1","100","1","Advance","High","Plants healthy with no symptoms of GRD."
+"GN_NK_UG_21B_192.JPG","peanut","","5","50","1","GRD","GRD4","50","2","Monitor","10","0","7","20","8","Advance","Low","Some plants have rosette-like disease symptoms"
+"GN_NK_UG_21B_193.JPG","peanut","","","","","","","","","","","","","","","","",""
+"GN_NK_UG_21B_194.JPG","peanut","","","","1","","GRD1","100","","","","","1","100","","","High",""
+"GN_NK_UG_21B_195.JPG","peanut","","","","0","","GRD1","0","1","Not needed","0","","1","0","1","On hold","High","Healthy plants. No GRD symptoms."
+"GN_NK_UG_21B_196.JPG","peanut","","","","","","GRD5","100","","","100","0","1","100","10","Eliminate","High","All plants are severely affected with rosette disease."
+"GN_NK_UG_21B_197.JPG","peanut","","","","3","","GRD3","100","","","","","","","","","",""
+"GN_NK_UG_21B_198.JPG","peanut","","","","","","GRD3","100","","","","","3","100","","","",""
+"GN_NK_UG_21B_199.JPG","peanut","","","","","","GRD3","0","","Monitor","","","","","","Monitor","High","Clear leaves with slight stunting, plants not dead yet."
+"GN_NK_UG_21B_200.JPG","peanut","","","","","","50","","","","","","","","","","High","This is a plot of peanuts with mild symptoms of Groundnut Rosette Disease."
+"GN_NK_UG_21B_201.JPG","peanut","","","","20","","GRD2","20","","On hold","","","","","","","Low","The peanut plants are showing mild symptoms of the Groundnut Rosette Disease."
