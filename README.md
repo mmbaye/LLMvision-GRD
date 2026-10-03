@@ -1,6 +1,6 @@
 # GRD Severity Scoring VLM Benchmark
 
-> ** Vision Language Models Enable Calibrated Groundnut Rosette Disease Severity Scoring Through Computer-Vision-Augmented Prompting: A Benchmark Study in West African Groundnut Breeding Trials**
+> **Vision Language Models Enable Calibrated Groundnut Rosette Disease Severity Scoring Through Computer-Vision-Augmented Prompting: A Benchmark Study in West African Groundnut Breeding Trials**
 
 A benchmark of four vision-language models (VLMs) for **Groundnut Rosette Disease (GRD)** severity scoring, compared against a YOLO segmentation reference on 107 field-trial images (Uganda).
 
